@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LoveSanjskaObleka]]></title>
-        <description><![CDATA[LoveSanjskaObleka]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Wedding inspiration]]></title>
+        <description><![CDATA[Wedding inspiration]]></description>
+        <link>https://thegrid.ai/lovesanjskaobleka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 18:17:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 18:34:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lovesanjskaobleka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8768d274-4f2a-4dc9-b3ac-c9c2cacf6b3a.jpg">]]></description>
+            <link>https://thegrid.ai/lovesanjskaobleka/totally-in-love-with-lace-and-all-the-details/index.html</link>
+            <guid isPermaLink="false">79e5c13b-532e-433b-9647-713882585317</guid>
+            <pubDate>Wed, 06 Apr 2016 18:33:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf5b09fb-7395-4368-b7d5-2042fc75bac7.jpg">]]></description>
-            <link>undefinedthelondonwedding/index.html</link>
+            <link>https://thegrid.ai/lovesanjskaobleka/thelondonwedding/index.html</link>
             <guid isPermaLink="false">f43e9ac8-2c36-4882-a57b-d7e40ab0f89d</guid>
             <pubDate>Wed, 06 Apr 2016 18:17:04 GMT</pubDate>
         </item>
