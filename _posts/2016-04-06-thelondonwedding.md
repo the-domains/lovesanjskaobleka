@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: '#TheLondonWedding'
-datePublished: '2016-04-06T18:17:04.273Z'
-dateModified: '2016-04-06T18:16:39.364Z'
-title: ''
+description: "We ware at #TheLondonBridalShow and take a picture with Charlie's angels :-)"
+datePublished: '2016-04-06T18:34:26.031Z'
+dateModified: '2016-04-06T18:21:51.855Z'
+title: TheLondonBridalShow
 author: []
 authors: []
 publisher:
