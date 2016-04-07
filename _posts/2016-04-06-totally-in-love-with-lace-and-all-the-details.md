@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Totally in love with lace and all the details.
-datePublished: '2016-04-06T19:08:03.288Z'
-dateModified: '2016-04-06T19:07:52.501Z'
+datePublished: '2016-04-07T05:26:36.886Z'
+dateModified: '2016-04-07T05:26:13.179Z'
 title: Totally in love with lace and all the details
 author: []
 sourcePath: _posts/2016-04-06-totally-in-love-with-lace-and-all-the-details.md
