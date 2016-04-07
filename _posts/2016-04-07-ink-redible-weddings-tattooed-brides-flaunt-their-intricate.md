@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ink-redible weddings! Tattooed brides flaunt their intricate body art in photos of their big day that are anything but traditional'
-datePublished: '2016-04-07T14:06:33.879Z'
-dateModified: '2016-04-07T14:03:28.333Z'
+datePublished: '2016-04-07T14:09:30.802Z'
+dateModified: '2016-04-07T14:06:37.315Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-07-ink-redible-weddings-tattooed-brides-flaunt-their-intricate.md
