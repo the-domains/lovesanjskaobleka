@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ink-redible weddings! Tattooed brides flaunt their intricate body art in photos of their big day that are anything but traditional'
-datePublished: '2016-04-07T14:01:17.766Z'
-dateModified: '2016-04-07T14:00:52.871Z'
+datePublished: '2016-04-07T14:02:27.632Z'
+dateModified: '2016-04-07T14:02:09.191Z'
 author: []
 title: ''
+sourcePath: _posts/2016-04-07-ink-redible-weddings-tattooed-brides-flaunt-their-intricate.md
+published: true
 authors: []
 publisher:
   name: dailymail.co.uk
   domain: www.dailymail.co.uk
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-ink-redible-weddings-tattooed-brides-flaunt-their-intricate.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
